@@ -1,1 +1,3 @@
-# git_test
+#Hello CODEUP!
+
+this is a learning file
